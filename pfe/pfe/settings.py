@@ -183,7 +183,7 @@ ALGOLIA = {
 # Specify the index you want to search (main index)
 
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1',"airbnb-3uzy.onrender.com"]
 
 
 CORS_ALLOWED_ORIGINS = [
