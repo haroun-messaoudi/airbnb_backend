@@ -29,7 +29,7 @@ python-dotenv==1.0.0
 # For searching and filtering 
 algoliasearch-django<5.0,>=4.0
 algoliasearch>=4,<5
-
+whitenoise
 dj-database-url>=2.1.0,<3.0
 psycopg[binary]>=3.1.17,<4.0
 gunicorn
